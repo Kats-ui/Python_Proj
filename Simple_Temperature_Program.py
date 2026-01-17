@@ -1,4 +1,4 @@
-#Temperature COnversion program
+#Temperature Conversion program
 print("-------------------------------")
 print("Temperature Conversion Program")
 print("-------------------------------")
